@@ -9,3 +9,12 @@ Section "Device"
         Option      "Backlight"  "intel_backlight"
     EndSection
 ```
+#  Keyboard layouts
+
+- For WIN + SPACE:
+
+Set `setxkbmap "us,ua,ru" ",winkeys" "grp:win_space_toggle"` in autostart
+
+- For other:
+
+Find ***OPTIONS*** in `man xkeyboard-config`
