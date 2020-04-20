@@ -31,4 +31,4 @@ Find ***OPTIONS*** in `man xkeyboard-config`
 
 # Adding apps to rofi
 
-- `ln -s /`applicationFolder/executable /usr/bin/appName
+- `ln -s /applicationFolder/executable /usr/bin/appName`
