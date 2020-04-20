@@ -28,3 +28,7 @@ Find ***OPTIONS*** in `man xkeyboard-config`
 
 # Touchpad gestures
 [Some info](https://www.reddit.com/r/i3wm/comments/579tam/touchpad_gestures_in_i3wm/)
+
+# Adding apps to rofi
+
+- `ln -s /`applicationFolder/executable /usr/bin/appName
