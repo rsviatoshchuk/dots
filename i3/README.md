@@ -24,7 +24,7 @@ Find ***OPTIONS*** in `man xkeyboard-config`
 2. Do `xinput list-props <device id>`, which should tell you what properties you can change for the input device.
 3. Run `xinput set-prop <device id> <property id> 1` to enable
 
-DO NOT USE THIS COMMAND IN AUTOSTART, becouse if you connect a mouse - id of touchpad can changes
+**DO NOT USE THIS COMMAND IN AUTOSTART**, becouse if you connect a mouse - id of touchpad can changes
 
 # Touchpad gestures
 [Some info](https://www.reddit.com/r/i3wm/comments/579tam/touchpad_gestures_in_i3wm/)
